@@ -1,0 +1,10 @@
+body {
+  background-color: pink; }
+  body div {
+    background-color: deepskyblue;
+    color: green;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 34px; }
